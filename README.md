@@ -1,6 +1,6 @@
 # Basic React starter template
 
-A minimal setup to quickly get a React project started using Webpack, webpack-dev-server, Babel and React
+Basic React starter template with boilerplate setup and tooling configured
 
 ## Setup
 
