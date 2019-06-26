@@ -8,11 +8,6 @@
   },
   "rules": {
     "prettier/prettier": "error",
-    "react/jsx-filename-extension": "off",
-    "react/forbid-prop-types": "off",
-    "react/require-default-props": "off",
-    "import/no-extraneous-dependencies": "off",
-    "import/prefer-default-export": "off",
-    "import/no-named-as-default": "off"
+    "react/jsx-filename-extension": "off"
   }
 }
