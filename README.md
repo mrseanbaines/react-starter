@@ -1,10 +1,13 @@
 # Basic React starter template
+
 A minimal setup to quickly get a React project started using Webpack, webpack-dev-server, Babel and React
 
 ## Setup
+
 Make sure you have [Node](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/) installed.
 
 To get started, run the following commands:
+
 > _**NOTE:** You can copy and paste the list of commands together or run them individually_
 
 ```sh
