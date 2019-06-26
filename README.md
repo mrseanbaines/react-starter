@@ -1,6 +1,6 @@
-# Basic React starter template
+# React starter template
 
-Basic React starter template with boilerplate setup and tooling configured
+React starter template with boilerplate setup and tooling configured
 
 ## Setup
 
@@ -12,7 +12,7 @@ To get started, run the following commands:
 
 ```sh
 # 1. Open your terminal and clone the repository into a new directory:
-git clone git@github.com:mrseanbaines/basic-starter-template.git your-project-name
+git clone git@github.com:mrseanbaines/react-starter.git your-project-name
 
 # 2. Change directories into your new project:
 cd your-project-name
