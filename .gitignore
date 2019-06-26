@@ -1,10 +1,13 @@
-# System files
-.DS_Store
+# Build directory
+dist/
 
 # Dependency directories
 node_modules/
 
-# Environment variables files
+# dotenv environment variables file
 .env
 .env.development
 .env.production
+
+# Mac files
+.DS_Store
